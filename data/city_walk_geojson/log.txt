@@ -1,0 +1,3 @@
+Warning 1: The output driver does not natively support DateTime type for field time. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+Warning 1: The output driver does not natively support DateTime type for field time. Misconversion can happen. -mapFieldType can be used to control field type conversion.
+Warning 1: The output driver does not natively support DateTime type for field time. Misconversion can happen. -mapFieldType can be used to control field type conversion.
